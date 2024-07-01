@@ -1,6 +1,6 @@
 # davidctinescu/penguinmod-cpu
 
-windowsbuild3r CPU v1.5 Documentation
+windowsbuild3r CPU v1.6 Documentation
 
 ## ISA OP-Codes
 - **rvga**: Test raw VGA
@@ -10,7 +10,7 @@ windowsbuild3r CPU v1.5 Documentation
 - **div**: Divide 2 numbers and store result in accumulator
 - **lshift**: Bit-wise shift left on accumulator
 - **rshift**: Bit-wise shift right on accumulator
-- **jmp**: Jump to decimal address (not implemented)
+- **jmp**: Jump to decimal address
 - **dmp**: Dump stack to raw VGA, RAM, and clear stack
 - **hlt**: Halt program counter
 - **clr**: Clear accumulator
@@ -55,4 +55,4 @@ windowsbuild3r CPU v1.5 Documentation
 - None yet, planning to add ones like `;`
 
 ## Publication
-- Public Domain - The Unilicense
+- Public Domain - Uni-license
